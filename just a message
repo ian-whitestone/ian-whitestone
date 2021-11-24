@@ -1,0 +1,19 @@
+Hey Ian!
+Sorry for contacting you in this way, but I haven't found another workaround.
+
+Thank you a lot for composing the article about randomization <> analysis unit
+It makes a great job of describing the problem in a very intuitive way.
+I wanted to share it with my data science colleagues, so they can learn about it,
+but I think there's a critical typo in the variance formula in the delta method - 
+The first term should be Var(S)/N^2, not Var(S)/N - this is stated in the original paper:
+page 3 formula 4) and it aligns with my calculations.
+
+https://ianwhitestone.work/randomization-unit-analysis-unit/
+https://arxiv.org/pdf/1803.06336.pdf
+
+I hope you'd be able to find time to fix it.
+
+Thanks!
+Alexander
+
+alexander.bogoslovsky@gmail.com
